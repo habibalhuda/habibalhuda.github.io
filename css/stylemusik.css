@@ -1,0 +1,16 @@
+.header-seaction {
+    padding-left: 52px;
+    padding-right: 72px;
+    padding-bottom: 30px;
+    background: #08192d;
+}
+
+.warna-bg {
+    background: linear-gradient(to right, rgba(91, 134, 229, .92), rgba(54, 209, 220, .92));
+}
+
+.jumbotron-bg {
+    background-size: cover;
+    background: url(../img/bg.jpg);
+    background-size: 600px;
+}
